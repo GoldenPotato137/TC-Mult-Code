@@ -1,0 +1,6 @@
+[submodule "third_party/cgbn"]
+	path = third_party/cgbn
+	url = https://github.com/NVlabs/CGBN.git
+[submodule "third_party/GPU-NTT"]
+	path = third_party/GPU-NTT
+	url = https://github.com/GoldenPotato137/GPU-NTT.git
